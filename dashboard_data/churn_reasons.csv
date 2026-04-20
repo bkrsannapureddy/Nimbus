@@ -1,0 +1,11 @@
+churn_reason,count,avg_ltv
+Not enough users,39,1762.8471794871793
+No longer needed,26,1917.636923076923
+Company closed,25,1730.69
+Outgrew the platform,23,2011.7147826086957
+Budget cuts,20,1788.9119999999998
+Integration issues,20,1453.3255000000001
+Too expensive,20,1805.1825000000001
+Missing features,18,2243.6072222222224
+Switched to competitor,12,1261.5583333333334
+Poor support experience,10,1792.5610000000001

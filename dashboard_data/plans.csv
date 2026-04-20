@@ -1,0 +1,9 @@
+plan_id,plan_name,plan_tier,monthly_price_usd,annual_price_usd,max_users,max_projects,storage_gb,is_active,created_at
+1,Free,free,0.0,0.0,5.0,3.0,1,True,2026-04-20 13:13:48.340258
+2,Starter,starter,12.0,120.0,15.0,10.0,5,True,2026-04-20 13:13:48.340258
+3,Starter Plus,starter,19.0,190.0,25.0,20.0,10,True,2026-04-20 13:13:48.340258
+4,Professional,professional,39.0,390.0,50.0,50.0,25,True,2026-04-20 13:13:48.340258
+5,Professional Plus,professional,59.0,590.0,100.0,100.0,50,True,2026-04-20 13:13:48.340258
+6,Enterprise,enterprise,99.0,990.0,500.0,,100,True,2026-04-20 13:13:48.340258
+7,Enterprise Custom,enterprise,199.0,1990.0,,,500,True,2026-04-20 13:13:48.340258
+8,Legacy Basic,starter,15.0,150.0,10.0,5.0,3,False,2026-04-20 13:13:48.340258
